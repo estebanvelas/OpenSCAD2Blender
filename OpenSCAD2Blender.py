@@ -9,7 +9,7 @@ bl_info = {
     "name": "OpenSCAD Generator",
     "blender": (3, 0, 0),
     "category": "Object",
-    "version": (1, 2),
+    "version": (1, 0),
     "author": "Esteban Velasquez",
     "description": "Generate objects using OpenSCAD within Blender, and load OpenSCAD files into the Text Editor",
 }
